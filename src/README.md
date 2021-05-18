@@ -10,3 +10,10 @@
 **NIO**:
 
 **AIO**:
+
+
+### 零拷贝、mmp、SendFile
+
+### Reactor模型
+
+### netty模型
