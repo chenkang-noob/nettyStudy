@@ -1,4 +1,4 @@
-package com.imnoob.heartbeat;
+package com.imnoob.netty.heartbeat;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
