@@ -15,7 +15,7 @@ import io.netty.util.concurrent.GenericFutureListener;
 
 public class ChatServer {
 
-    private  Integer port = 9000;
+    private  Integer port = 7000;
 
     public ChatServer(Integer port) {
         this.port = port;
